@@ -1,0 +1,14 @@
+<html>
+
+    <head>
+            <title> Hey world! </title>
+    </head>
+
+    <body>
+        <h1>Hey world!</h1>
+        <p>This is my first webpage. </p>
+        <p>Another paragraph. </p>
+
+        <img src="hotelnewyorkrotterdam.jpg />
+    </body>
+</html>
